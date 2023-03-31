@@ -1,6 +1,6 @@
 # Original code for PHS Map.
 
-A website is a map of the school!
+A website that is a map of the school!
 
 ## Created by
 
